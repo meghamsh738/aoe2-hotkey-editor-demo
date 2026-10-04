@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://meghamsh738.github.io/aoe2-hotkey-editor-demo/sitemap.xml

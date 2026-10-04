@@ -1,0 +1,22 @@
+{
+  "name": "AoE2 Hotkey Editor — Demo",
+  "short_name": "AoE2 Hotkeys",
+  "description": "A local-first editor and trainer for Age of Empires II: Definitive Edition hotkeys.",
+  "start_url": "/aoe2-hotkey-editor-demo/",
+  "display": "standalone",
+  "background_color": "#0b100f",
+  "theme_color": "#0b100f",
+  "icons": [
+    {
+      "src": "/aoe2-hotkey-editor-demo/assets/fortress-crosshair-logo-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/aoe2-hotkey-editor-demo/assets/fortress-crosshair-logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/aoe2-hotkey-editor-demo/"
+}
